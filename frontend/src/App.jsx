@@ -14,6 +14,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify'
 
+// this is a new change
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>
